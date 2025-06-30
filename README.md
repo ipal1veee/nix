@@ -1,2 +1,0 @@
-# nix
-my nixos cfg
